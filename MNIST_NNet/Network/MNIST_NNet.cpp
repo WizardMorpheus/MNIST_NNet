@@ -8,6 +8,7 @@
 
 using namespace std;
 
+#include "../../eigen/Eigen/Dense"
 
 vector<tuple<int, Eigen::VectorXf>> read_data(string file_name)
 {
@@ -65,4 +66,5 @@ int main()
     vector<tuple<int, Eigen::VectorXf>> train_data = read_data("../../MNIST_Data/mnist_train.csv");
     vector<tuple<int, Eigen::VectorXf>> test_data = read_data("../../MNIST_Data/mnist_test.csv");
 
+	std::cout << v1 << std::endl << std::endl << v2 << std::endl << std::endl << v3;
 }
