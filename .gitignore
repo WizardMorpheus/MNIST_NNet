@@ -1,3 +1,5 @@
 .vs
-MNIST_Data\mnist_test.csv
-MNIST_Data\mnist_train.csv
+MNIST_Data/mnist_test.txt
+MNIST_Data/mnist_train.txt
+.txt
+MNIST_Data/
