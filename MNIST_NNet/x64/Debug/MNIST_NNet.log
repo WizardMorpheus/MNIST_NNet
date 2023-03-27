@@ -1,14 +1,35 @@
 ﻿  MNIST_NNet.cpp
-E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(79,36): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(109,36): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
           with
           [
               _Ty=float
           ]
-E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(80,37): warning C4244: 'argument': conversion from '_Ty' to 'Eigen::Index', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(110,37): warning C4244: 'argument': conversion from '_Ty' to 'Eigen::Index', possible loss of data
           with
           [
               _Ty=float
           ]
-E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(231,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(250,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(111,33): warning C4244: 'argument': conversion from '_Ty' to 'Eigen::Index', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(112,37): warning C4244: 'argument': conversion from '_Ty' to 'Eigen::Index', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(114,44): warning C4244: 'argument': conversion from '_Ty' to 'Eigen::Index', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(115,40): warning C4244: 'argument': conversion from '_Ty' to 'Eigen::Index', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(196,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(369,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(388,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   MNIST_NNet.vcxproj -> E:\Visual_Studio\Projects\MNIST_NNet\x64\Debug\MNIST_NNet.exe
