@@ -1,3 +1,6 @@
 ﻿  MNIST_NNet.cpp
-E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(64,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(82,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(83,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(159,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Visual_Studio\Projects\MNIST_NNet\MNIST_NNet\Network\MNIST_NNet.cpp(174,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   MNIST_NNet.vcxproj -> E:\Visual_Studio\Projects\MNIST_NNet\x64\Debug\MNIST_NNet.exe
